@@ -6,7 +6,7 @@ Not compatible with Ground Support Package.",,graphics/hullmods/MHMods_Bombardme
 Emergency Venting System,mhmods_emergencyventingsystem,3,,"special, req_spaceport",Requires Dock,15000,,,,MHM inc,4,8,12,20,data.hullmods.MHMods_EmergencyVentingSystemV2,"If overload duration exceeds %s seconds, overload is shortened to %s seconds and engines are knocked out, when overload ends, ship immediately begins active venting.
 Has no effect on ships that cannot use active venting.",,graphics/hullmods/MHMods_Emergency Venting System.png
 Exploration Refit,mhmods_explorationrefit,1,,"special, req_spaceport","Requires Dock, Logistics",10000,,,,MHM inc,3,6,9,15,data.hullmods.MHMods_ExplorationRefit,"A modification used by deep space exploration fleets, replaces parts of the ship militarized subsystems with ones that increases overall exploration performance.
-Reduces fuel usage by %s, supplie use for maintenance by %s and increases sensor strength by %s.
+Reduces fuel usage by %s, supply use for maintenance by %s and increases sensor strength by %s.
 Reduces maximum combat readiness by %s. And reduces combat readiness recovery rate by %s.
 All effects reduced by %s if Efficiency Overhaul is installed.",,graphics/hullmods/MHMods_Exploration Refit.png
 Flux Booster,mhmods_fluxbooster,2,,"special, engines","Special, Engines",12500,,,,MHM inc,4,8,12,20,data.hullmods.MHMods_FluxBooster,"Increases venting speed by %s (redused by %s if Resistant Flux Conduits is installed). While venting increases speed and maneuverability by %s/%s/%s/%s depending on the hull size and flux level at moment of venting start, for %s seconds or until ship stops venting whichever is faster.",,graphics/hullmods/MHMods_Flux Booster.png
