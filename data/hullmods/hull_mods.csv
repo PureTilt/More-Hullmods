@@ -29,7 +29,7 @@ Missile Prefabricator,MHMods_prefabricator,2,,"special, offensive",Weapons,10000
 
 Does not affect weapons without magazines and build-in weapons.",Instead of removing ammo recharge reduces it by %s.,,graphics/hullmods/MHMods_prefabricator.png
 Particle Accelerator,mhmods_particleaccelerator,1,,"special, offensive",Weapons,5000,,,,MHM,3,6,9,15,data.hullmods.MHMods_ParticleAccelerator,Increases projectile travel speed of energy and ballistic weapons by %s.,,,graphics/hullmods/MHMods_ParticleAccelerator.png
-Reloader,mhmods_reloader,1,,"special, offensive",Weapons,5000,,,,MHM,3,6,9,15,data.hullmods.mhmods_reloader,Increases ammo reload speed of energy and ballistic by %s.,Increases ammo reload speed to %s but reduces maximum ammo by %s,,graphics/hullmods/mhmods_reloader.png
+Reloader,mhmods_reloader,1,,"special, offensive",Weapons,5000,,,,MHM,3,6,9,15,data.hullmods.mhmods_reloader,Increases ammo reload speed of energy and ballistic by %s.,Increases ammo reload speed to %s but reduces maximum ammo by %s,,graphics/hullmods/MHMods_Reloader.png
 Split Chamber,mhmods_splitChamber,2,,"special, offensive",Weapons,7500,,,,MHM,3,6,9,15,data.hullmods.MHMods_splitChamber,"Increases fire rate, ammo reload speed and ammo cappacity of energy and ballistic weapons by %s.
 Reduces flux generation of energy and ballistic weapons by %s.
 Reduces damage of energy and ballistic weapons by %s.",,,graphics/hullmods/MHMods_SplitChamber.png
