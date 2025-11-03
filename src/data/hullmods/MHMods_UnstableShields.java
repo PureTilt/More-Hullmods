@@ -62,6 +62,8 @@ public class MHMods_UnstableShields extends mhmods_baseSHmod {
     }
 
     public void advanceInCombat(ShipAPI ship, float amount) {
+		if (ship == null || !ship.isAlive() || ship.getShield() == null) return;
+		
         float Instability = 0f;
         float ShieldStart = 0f;
         float StartUnbrake = 0f;
